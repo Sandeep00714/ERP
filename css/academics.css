@@ -102,23 +102,23 @@ main{
 }
 
 #attendanceIcon{
-    background-image: url(/assets/attendance.png);
+    background-image: url(../assets/attendance.png);
 }
 
 #timeTableIcon{
-    background-image: url(/assets/timetable.png);
+    background-image: url(../assets/timetable.png);
 }
 
 #assignmentIcon{
-    background-image: url(/assets/assignment.png);
+    background-image: url(../assets/assignment.png);
 }
 
 #currentSubjectIcon{
-    background-image: url(/assets/subject.png);
+    background-image: url(../assets/subject.png);
 }
 
 #geSubjectIcon{
-    background-image: url(/assets/gesubject.png);
+    background-image: url(../assets/gesubject.png);
 }
 
 .item:hover{
