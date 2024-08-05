@@ -108,17 +108,17 @@ main{
 }
 
 #feeSubmission{
-    background-image: url(/assets/feeSubmission.png);
+    background-image: url(../assets/feeSubmission.png);
 }
 
 #transactionHistory{
-    background-image: url(/assets/transactionHistory.png);
+    background-image: url(../assets/transactionHistory.png);
 }
 
 #feeReciept{
-    background-image: url(/assets/feeReciept.png);
+    background-image: url(../assets/feeReciept.png);
 }
 
 #feeInstallment{
-    background-image: url(/assets/feeInstallment.png);
+    background-image: url(../assets/feeInstallment.png);
 }
